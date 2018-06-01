@@ -1,7 +1,8 @@
 # LeapYears
 
 ```
-As a user, I want to know if a year is a leap year, So that I can plan for an extra day on February 29th during those years.
+As a user, I want to know if a year is a leap year,
+So that I can plan for an extra day on February 29th during those years.
 ```
 
 Acceptance Criteria:
